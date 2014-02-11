@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppChamada</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="alunos">Alunos</string>
+    <string name="cursos">Cursos</string>
+    <string name="chamadas">Chamadas</string>
+    <string name="ultimas_chamadas">Últimas Chamadas</string>
+    <string name="turmas">Turmas</string>
+    <string name="aulas">Aulas</string>
+    <string name="aluno">Aluno</string>
+    <string name="curso">Curso</string>
+    <string name="chamada">Chamada</string>
+    <string name="turma">Turma</string>
+    <string name="aula">Aula</string>
+    <string name="novo">Novo</string>
+    <string name="editar">Editar</string>
+    <string name="apagar">Apagar</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="proximas_aulas">Próximas Aulas</string>
+    <string name="title_activity_aluno_form">AlunoFormActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="novo_aluno">Novo Aluno</string>
+    <string name="nome">Nome</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="codigo">Código</string>
+    <string name="title_activity_curso_form">CursoFormActivity</string>
+    <string name="data_nascimento">Data de Nascimento</string>
+    <string name="novo_curso">Novo Curso</string>
+    <string name="campo_invalido">Campo inválido</string>
+    <string name="campo_necessario">Campo necessário</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_delete">Apagar</string>
+    <string name="btn_negativo">Não</string>
+    <string name="btn_positivo">Sim</string>
+    <string name="title_apagar">Apagar registro</string>
+    <string name="msg_certeza">Tem certeza que deseja fazer isto?</string>
+
+</resources>

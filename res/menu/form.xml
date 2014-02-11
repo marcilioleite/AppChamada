@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/save"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/salvar"/>
+
+    <item
+        android:id="@+id/cancel"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/cancelar"/>
+    
+</menu>
